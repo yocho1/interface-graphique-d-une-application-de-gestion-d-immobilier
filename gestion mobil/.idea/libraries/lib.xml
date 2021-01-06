@@ -1,0 +1,28 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../../Program Files/Java/javafx-sdk-11.0.2/lib" />
+      <root url="jar://$USER_HOME$/Downloads/Compressed/mysql-connector-java-8.0.22/mysql-connector-java-8.0.22.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Compressed/fontawesomefx-glyphsbrowser-1.3.0/lib/fontawesomefx-commons-8.15.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Compressed/fontawesomefx-glyphsbrowser-1.3.0/lib/fontawesomefx-fontawesome-4.7.0-5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../../../Program Files/Java/javafx-sdk-11.0.2/lib" />
+      <root url="file://$USER_HOME$/Downloads/Compressed/Jerady-fontawesomefx-6cbf97484669/fontawesomefx/fontawesomefx-commons/src/main/java" />
+      <root url="file://$USER_HOME$/Downloads/Compressed/Jerady-fontawesomefx-6cbf97484669/fontawesomefx/fontawesomefx-controls/src/main/java" />
+      <root url="file://$USER_HOME$/Downloads/Compressed/Jerady-fontawesomefx-6cbf97484669/fontawesomefx/fontawesomefx-emojione/src/main/java" />
+      <root url="file://$USER_HOME$/Downloads/Compressed/Jerady-fontawesomefx-6cbf97484669/fontawesomefx/fontawesomefx-emojione/src/test/java" />
+      <root url="file://$USER_HOME$/Downloads/Compressed/Jerady-fontawesomefx-6cbf97484669/fontawesomefx/fontawesomefx-fontawesome/src/main/java" />
+      <root url="file://$USER_HOME$/Downloads/Compressed/Jerady-fontawesomefx-6cbf97484669/fontawesomefx/fontawesomefx-fontawesome/src/test/java" />
+      <root url="file://$USER_HOME$/Downloads/Compressed/Jerady-fontawesomefx-6cbf97484669/fontawesomefx/fontawesomefx-icons525/src/main/java" />
+      <root url="file://$USER_HOME$/Downloads/Compressed/Jerady-fontawesomefx-6cbf97484669/fontawesomefx/fontawesomefx-materialdesignfont/src/main/java" />
+      <root url="file://$USER_HOME$/Downloads/Compressed/Jerady-fontawesomefx-6cbf97484669/fontawesomefx/fontawesomefx-materialicons/src/main/java" />
+      <root url="file://$USER_HOME$/Downloads/Compressed/Jerady-fontawesomefx-6cbf97484669/fontawesomefx/fontawesomefx-materialstackicons/src/main/java" />
+      <root url="file://$USER_HOME$/Downloads/Compressed/Jerady-fontawesomefx-6cbf97484669/fontawesomefx/fontawesomefx-octicons/src/main/java" />
+      <root url="file://$USER_HOME$/Downloads/Compressed/Jerady-fontawesomefx-6cbf97484669/fontawesomefx/fontawesomefx-weathericons/src/main/java" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../../../../Program Files/Java/javafx-sdk-11.0.2/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../../Program Files/Java/javafx-sdk-11.0.2/lib" recursive="false" type="SOURCES" />
+  </library>
+</component>
